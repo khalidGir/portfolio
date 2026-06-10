@@ -1,0 +1,15 @@
+Copy-paste these into Gemini (or any image generator):
+
+---
+
+1. Tap Trade Pro
+"Professional dark-mode crypto trading dashboard UI. Real-time candlestick chart taking up 70% of screen, order book depth chart on right, Web3 wallet connect button top-right, green/red price tickers, perpetual futures trading panel at bottom. High-tech dark theme with blue and amber accents. Clean, modern, desktop dashboard. No text, no logo."
+
+2. Tanker Logistics Engine
+"Split-screen logistics platform UI showing a map-based dispatch view on the left half with vehicle tracking pins and optimized route lines, and a real-time order management table on the right half showing driver assignments and delivery statuses. Dark theme with amber and slate accents. Professional B2B dashboard look. Clean UI, no text, no logo."
+
+3. SatAgro Internal Platform
+"Agricultural analytics dashboard with a satellite map view of farmland parcels overlaid with color-coded crop health heatmaps (NDVI). Left sidebar showing telemetry metrics and automated alert notifications. Clean, professional, dark theme with green and amber accents. Agritech SaaS dashboard style. No text, no logo."
+
+4. Bilingual AI Support Core
+"Dark themed AI chatbot interface showing a bilingual conversation panel with message bubbles in two different languages side by side. Clean, modern, minimal design with purple and amber accent colors. Automated agent / support dashboard UI. No text, no logo."
